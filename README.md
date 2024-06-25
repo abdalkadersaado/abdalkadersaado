@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdalkadersaado
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning Python and Data sience
+- 🌱 I am currently learning new techniques in web development
 - 💞️ I’m looking to collaborate on create and programming multi projects
 - 📫 How to reach me ...
 
